@@ -1,0 +1,78 @@
+.container{
+  margin: 10px 5px;
+}
+.main{
+  background-color: #0f0f0f;
+  width: 80vw;
+  margin: 0 auto;
+  border-radius: 10px;
+  padding: 10px;
+}
+.nameFeipds{
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 5px;
+}
+input{
+  width: 97%;
+  height: 30px;
+  border-radius: 10px;
+  background-color: #2f2f2f;
+  border: none;
+  outline: none;
+  padding: 5px;
+  margin-bottom: 7px;
+  color: white;
+}
+::placeholder{
+  color: #6a6a6a;
+  font-size: 16px;
+}
+.left-inp input{
+  width: 35vw;
+  height: 30px;
+}
+.right-inp input{
+  width: 35vw;
+  height: 30px;
+}
+.about {
+  margin-right: 10px;
+}
+textarea{
+  height: 100px;
+  width: 100%;
+  margin: 0  auto;
+  border-radius: 10px;
+  background-color: #3d3d3d;
+  border: none;
+  outline: none;
+  padding: 5px;
+  color: white;
+}
+.uploadImg{
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.previewButton{
+  display: flex;
+  justify-content: space-between;
+}
+.btn{
+  margin-top: 10px;
+  width: 90px;
+  height: 40px;
+  border-radius: 15pc;
+  border: none;
+  padding: 5px;
+}
+.loadBtn{
+  background-color: #b6fd8b;
+}
+.resetBtn{
+  background-color: #fd9d8b;
+}
+.previewButton{
+  margin: 8px;
+}

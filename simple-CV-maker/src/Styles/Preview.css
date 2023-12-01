@@ -1,0 +1,84 @@
+.head-top{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 5px;
+}
+.mainbody{
+  margin-top: 20px;
+}
+img{
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border: 1px solid #ffbd24;
+}
+h1{
+  color: #ffbd24;
+}
+.body{
+  width: 80%;
+  padding: 10px;
+  margin: 0 auto;
+  border: 1px solid #ffbd24;
+  border-radius: 10px;
+}
+.head-bottom p{
+  margin-bottom: 10px;
+  font-size: 9px;
+}
+.head{
+  border-bottom: 1px solid #f1f1f1;
+}
+.foote-top{
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+.foote-top p{
+  font-size: 8px;
+}
+.footer-bottom{
+  display: flex;
+  justify-content: space-between;
+}
+.footer-bottom p{
+  font-size: 8px;
+}
+.mainCon-top{
+  display: flex;
+  justify-content: space-between;
+  font-size: 8px;
+  margin-top: 10px;
+  margin-bottom: 8px;
+}
+.mainCon-bottom{
+  border-bottom: 1px solid #f1f1f1;
+}
+.mainCon-bottom p{
+  font-size: 8px;
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+h3{
+  color: #ffbd24;
+}
+.education p{
+  margin-bottom: 3px;
+  font-size: 8px;
+  
+}
+.education{
+  width: 50%;
+}
+.skills{
+  margin-right: 35px;
+}
+.skills h1{
+  margin-bottom: 5px;
+}
+.education h1{
+  margin-bottom: 5px;
+}
+
+ 
